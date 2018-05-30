@@ -1,0 +1,24 @@
+span.red {
+    color: red;
+  }
+  span.green {
+    color: green;
+  }
+  span.blue {
+    color: blue;
+  }
+  span.big {
+    font-size: 30pt;
+  }
+  span.notbig {
+    font-size: 10pt;
+  }
+  #result{
+    position: absolute;
+    right: 20px;
+    width: 600px;
+    top: 60px
+  }
+  #input{
+    display: inline;
+  }
